@@ -3,7 +3,7 @@ const orderBy = require('lodash/orderBy')
 
 // if you want to display your most starred github repositories,
 // change this to your username. if not, set it to false.
-const YOUR_GITHUB_USERNAME = 'maxboeck'
+const YOUR_GITHUB_USERNAME = 'WalterMuschenheim'
 
 module.exports = async function () {
     if (!YOUR_GITHUB_USERNAME) {
@@ -13,7 +13,7 @@ module.exports = async function () {
     try {
         console.log('Fetching GitHub repos...')
         const repos = await Cache(
-            `https://api.github.com/users/${YOUR_GITHUB_USERNAME}/repos`,
+            `https://api.github.com/users/${YOUR_GITHUB_USERNAME}/repos?type=public`,
             {
                 duration: '1d',
                 type: 'json'

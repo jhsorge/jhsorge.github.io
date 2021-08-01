@@ -3,4 +3,4 @@ tags: introduction
 title: About Me
 ---
 
-I am a web developer with over 12 years of experience in the front-end and a special background in digital design. My focus is on creating engaging, accessible & performant interfaces for humans. I am currently looking for new challenges.
+I am a language professional and front-end developer. My background in translation has given me an approach to problem solving that is both systematic and creative. When I started building websites I was interested in design and layout. After becoming familiar with Wordpress, I began to dive deeper into customizing themes and plugins, which lead to my current interest in coding and full-stack development.

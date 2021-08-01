@@ -1,17 +1,17 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "Walter Muschenheim",
+    "occupation": "Language Professional and Front-End Developer",
+    "location": "Toronto, Canada",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "he/him",
+    "email": "contact@waltermuschenheim.com",
+    "telephone": "416 994 3516",
+    "website": "https://waltermuschenheim.com",
     "skills": [
         "HTML",
         "CSS",
         "Javascript / ES6",
-        "UI Design",
+        "PHP",
         "React",
         "Git"
     ],
@@ -21,24 +21,28 @@
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "French",
             "level": "fluent"
         },
         {
-            "name": "French",
-            "level": "basic"
+            "name": "German",
+            "level": "written fluency"
+        },
+        {
+            "name": "Spanish",
+            "level": "written fluency"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@WalterMuschenheim",
+            "url": "https://github.com/WalterMuschenheim"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "waltermuschenheim",
+            "url": "https://www.linkedin.com/in/waltermuschenheim/"
         }
     ]
 }
