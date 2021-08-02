@@ -6,3 +6,11 @@
     src: url('/assets/fonts/butler-medium.woff2') format('woff2'),
         url('/assets/fonts/butler-medium.woff') format('woff');
 }
+
+@font-face {
+    font-family: 'Lobster';
+    src: url('/assets/fonts/Lobster-Regular.woff2') format('woff2'),
+        url('/assets/fonts/Lobster-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

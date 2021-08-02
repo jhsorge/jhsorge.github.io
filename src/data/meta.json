@@ -1,9 +1,9 @@
 {
-    "url": "https://demo-resume.netlify.app",
+    "url": "https://waltermuschenheim.com",
     "lang": "en",
     "locale": "en_us",
     "colors": {
-        "primary": "#005b96",
-        "secondary": "#fc6767"
+        "primary": "#26e089",
+        "secondary": "#000000"
     }
 }

@@ -7,8 +7,18 @@ h6 {
     margin: 0;
     line-height: 1.2;
     font-family: $font-family-serif;
-    font-weight: 500;
+    font-weight: 100;
     text-rendering: optimizeLegibility;
+}
+
+h1.p-name {
+    font-family: $font-family-title;
+    letter-spacing: -0.1em;
+}
+
+.p-job-title, .p-locality {
+    font-family: $font-family-serif;
+    font-weight: 100;
 }
 
 h1 {

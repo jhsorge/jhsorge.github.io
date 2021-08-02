@@ -13,9 +13,9 @@ module.exports = async function () {
     try {
         console.log('Fetching GitHub repos...')
         const repos = await Cache(
-            `https://api.github.com/users/${YOUR_GITHUB_USERNAME}/repos?type=public`,
+            `https://api.github.com/users/${YOUR_GITHUB_USERNAME}/repos`,
             {
-                duration: '1d',
+                duration: '1s',
                 type: 'json'
             }
         )
