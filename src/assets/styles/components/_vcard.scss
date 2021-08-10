@@ -24,9 +24,10 @@
         margin-right: $spacing-x;
     }
     &__pronouns {
+        margin-left: 10px;
         font-size: 1.125rem;
         font-family: $font-family-serif;
-        color: $gray;
+        // color: $gray;
     }
     &__link {
         display: flex;

@@ -21,6 +21,8 @@ body {
     }
     .footer {
         grid-area: footer;
+        grid-column-start: -3;
+        grid-column-end: -1;
         padding: $spacing-y 0;
         background-color: $gray-light;
     }
