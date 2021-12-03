@@ -8,11 +8,13 @@
     "telephone": "416 994 3516",
     "website": "https://waltermuschenheim.com",
     "skills": [
-        "HTML",
-        "CSS",
+        "HTML & CSS",
         "Javascript / ES6",
-        "PHP",
+        "NodeJS",
         "React",
+        "Express",
+        "MongoDB",
+        "PHP",
         "Git"
     ],
     "languages": [
