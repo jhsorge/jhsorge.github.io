@@ -25,3 +25,12 @@ jobs:
 
       - run: npm ci
       - run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
+          cname: jennifer.ocmatos.com
+          commit_message: "Deploy to GitHub Pages"
