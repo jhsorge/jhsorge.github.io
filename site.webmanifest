@@ -1,10 +1,6 @@
----
-permalink: /site.webmanifest
-eleventyExcludeFromCollections: true
----
 {
-  "name": "{{ site.title }}",
-  "short_name": "{{ author.shortName }}",
+  "name": "Resume of John Doe",
+  "short_name": "JD",
   "icons": [
     {
       "src": "/assets/images/favicons/android-chrome-192x192.png",
@@ -17,7 +13,7 @@ eleventyExcludeFromCollections: true
       "type": "image/png"
     }
   ],
-  "theme_color": "{{ site.themeColor }}",
-  "background_color": "{{ site.backgroundColor }}",
+  "theme_color": "#fffbeb",
+  "background_color": "#451a03",
   "display": "standalone"
 }
