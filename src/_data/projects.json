@@ -1,9 +1,44 @@
 [
   {
-    "industry": "Industry",
-    "details": "Short description",
-    "role": ["Role 1", "Role 2", "Role 3"],
+    "industry": "Driving Innovation & Adoption - DHL Supply Chain Management GmbH",
+    "details": "As a Senior Project Manager, I lead the Salesforce vision roadmap, driving digital transformation, AI integration, and enhanced user experience. I coordinate in-house developers and external consultants to achieve key roadmap milestones while developing a comprehensive training and user adoption strategy.",
+    "role": ["Planning and execution of roadmap", "Reporting to senior management", "Leading workshops", "Requirements management", "Running POCs with selected user groups"],
     "status": "live",
-    "technologies": ["Technology 1", "Technology 2", "Technology 3"]
+    "technologies": ["Salesforce", "Digital Transformation", "User Adoption", "Strategic Planning"]
+  },
+  {
+    "industry": "Global Account Planning Integration - DHL Supply Chain Management GmbH",
+    "details": " I lead the collaboration between the Global Account Management team, a third-party vendor, and in-house developers to deliver key system enhancements. I translate business requirements into technical specifications, oversee feature development, and manage the release planning to ensure seamless deployment and adoption. ",
+    "role": ["release planning", "requirements analysis"],
+    "status": "live",
+    "technologies": ["Salesforce", "Digital Transformation", "DemandFarm Tool"]
+  },
+  {
+    "industry": "Onboarding new Team Members - DHL Supply Chain Management GmbH",
+    "details": "For my responsibility of onboarding new team members, I have developed a knowledge database for onboarding new team members to help them easily navigate our systems and understand our business processes.",
+    "role": ["onboarding new team members", "Development of knowledge database"],
+    "status": "live",
+    "technologies": ["Training", "Documentation", "Communication"]
+  }, 
+  {
+    "industry": "Establishing Support Model for Salesforce app -DHL Supply Chain Management GmbH",
+    "details": "In my role as administrator, I played a major part in setting up a support model for our Salesforce org. I was responsible for managing super user involvement and making sure they feel heard and supported. ",
+    "role": ["onboarding new team members", "Development of knowledge database"],
+    "status": "complete",
+    "technologies": ["Organising training sessions", "Documentation", "Communication"]
+  }, 
+  {
+    "industry": "Expanding company into new countries - Embecosm GmbH",
+    "details": "I was the main contact and support for setting up a new branch of Embecosm Ltd in Germany, to set up a GmbH, and in France, to set up an SAS. This involved getting familiar with the working law in the specific countries, arranging for solicitors and accountants and registration for all relevant taxes and organisations.",
+    "role":["Communication between solicitors and accountants", "Establishing Code of Conduct, Security and Data Protection Guidelines", "Establishing internal processes for employee management, office management according to country-specific rules", "monitoring funding opportunities", "finance"], 
+    "status": "completed",
+    "technologies": ["Xero", "Datev Unternehmen Online"]
+  }, 
+  {
+    "industry": "Growing a start-up - Arcus Global Ltd",
+    "details": "Arcus Global is a start-up which quickly grew from 3 people to over 60 employees within my 4 years at that company. I worked in all areas of company management, employee management, business acquisition, consultancy and implementation. Our focus was cloud based solutions for local and central government. I developed custom solutions on the force.com platform and Salesforce, as well as other CRM applications. We have become a major player in providing certified solutions to the UK public sector.",
+    "role":["Business Acquisition", "Implementation of cloud solutions", "Force.com Development", "Project Management", "Requirements Engineering"], 
+    "status": "completed",
+    "technologies": ["CRM solutions", "Force.com", "Salesforce", "Zoho product suite", "Agile Software Development"]
   }
 ]
